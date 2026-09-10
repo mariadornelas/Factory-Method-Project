@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>Sistema de Monitoramento de Sensores - Factory Method</name>
-    <description> Projeto Factory </description>
+    <description> Projeto Factory Method </description>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
