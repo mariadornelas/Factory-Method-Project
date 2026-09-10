@@ -1,6 +1,5 @@
 # Sistema de Monitoramento de Sensores Industriais — Factory Method
 
----
 
 ## Testes implementados
 
@@ -16,5 +15,3 @@
   provar que `SensorFactory.realizarLeitura()` depende **apenas da
   abstração**, sem nenhum acoplamento a uma classe concreta. Isso
   evidencia o polimorfismo obtido com o Factory Method.
-
----
